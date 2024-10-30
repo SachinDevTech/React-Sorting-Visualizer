@@ -14,4 +14,4 @@
 :white_check_mark:  Merge Sort<br><br>
 :white_check_mark:  Heap Sort<br><br>
 
-<a href="#">Click Here for Visualization</a>
+<a href="https://react-sorting-visualizer-sachindevtech.vercel.app/">Click Here for Visualization</a>
